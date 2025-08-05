@@ -1,0 +1,8 @@
+{
+  "name": "CUADRAI: El Copiloto del Autónomo",
+  "description": "Una aplicación SaaS para ayudar a los autónomos y pymes en España con la gestión fiscal, la facturación y la tesorería, garantizando tranquilidad y cumplimiento normativo.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
